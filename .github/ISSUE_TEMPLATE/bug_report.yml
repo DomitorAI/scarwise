@@ -1,0 +1,37 @@
+name: Bug report
+description: Report a problem with the scarwise command, an agent connection, the proxies or an SDK.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. scarwise init
+        2. In my agent, run ...
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      placeholder: Scarwise version (scarwise version), agent and its version, operating system, Node.js version
+    validations:
+      required: false
+  - type: textarea
+    id: log
+    attributes:
+      label: Relevant output
+      description: The line Scarwise showed, `scarwise lessons` output, or attach the file from `scarwise report`. Remove API keys and any personal data first.
+      render: shell
+    validations:
+      required: false
