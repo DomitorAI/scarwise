@@ -1,0 +1,67 @@
+Scarwise License
+Copyright (c) 2026 DomitorAI. All rights reserved.
+
+The author of Scarwise ("the Author", publishing as DomitorAI) owns the
+copyright in the Software. The Author shares the Software free of charge, as
+knowledge put into a working application. This license lets you use it; it
+does not transfer any ownership of the Software to you.
+
+Definitions
+- "Software": the Scarwise packages, scripts and documentation published by
+  the Author (including the GitHub releases and the npm and PyPI packages).
+- "Your Application": software that you develop or operate, that uses the
+  Software and that has its own purpose and functionality beyond the Software.
+
+1. Free use without limits. You may use, install, run and copy the Software
+   for any purpose, including commercial purposes, free of charge, with no
+   limit on the number of users, computers, agents or applications.
+
+2. Use in your applications. You may include the Software's software
+   development kits (the JavaScript/TypeScript and Python SDKs) in Your
+   Application and distribute them, unmodified, together with Your
+   Application - also when you sell Your Application. Your end users may use
+   them as part of Your Application.
+
+3. Resale only with the Author's permission. Without the Author's prior
+   written permission (an e-mail is enough) you may not:
+   a) sell, rent, license or otherwise charge for the Software itself or a
+      copy of it, alone or in a bundle whose main value is the Software;
+   b) offer the Software to others as a paid hosted service whose main value
+      is the Software itself.
+   You may always charge for Your Application, and for your own services of
+   installing, configuring or integrating the Software for a client.
+   Requests: see "Contact" below.
+
+4. Integrity. You may not distribute modified versions of the Software's
+   packages, nor present the Software, or a modified version of it, as your
+   own work. You may configure and extend the Software through its documented
+   commands, settings, file formats and APIs. Decompiling the Software for
+   interoperability or troubleshooting is allowed.
+
+5. Notices. Keep this license and the copyright notices with any copy of the
+   Software you distribute. Third-party components included in the Software
+   are provided under their own licenses; this license does not change those
+   licenses.
+
+6. Your data. This license gives the Author no rights to Your Application,
+   your data or your end users' data. The Software runs on computers you
+   control. What it may send, and how to turn it off, is described in its
+   documentation (docs/privacy.md).
+
+7. Your decision, no warranty. Nobody is required to use the Software. The
+   decision to use it, and how, in any project is yours alone, and so is the
+   responsibility for that decision. The Software is provided free of charge,
+   "AS IS", without warranty of any kind, express or implied, including
+   fitness for a particular purpose. It may contain errors. The Author has no
+   obligation to provide support, fixes or updates. You use the Software at
+   your own risk, to the extent permitted by applicable law.
+
+8. No liability. To the extent permitted by applicable law, the Author shall
+   not be liable for any damages (including loss of data, profit or business)
+   arising from the use of, or the inability to use, the Software. This does
+   not limit liability that cannot be limited by law (for example for intent
+   or gross negligence).
+
+Contact: https://github.com/DomitorAI/scarwise (open an issue, or use the
+contact given there) - for permissions, questions, and for the development
+of a version tailored to a specific project.
